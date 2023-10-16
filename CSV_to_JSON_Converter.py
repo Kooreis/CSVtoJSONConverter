@@ -1,3 +1,2 @@
-import csv
-import json
-import sys
+def csv_to_json(csvFilePath, jsonFilePath):
+    jsonArray = []
